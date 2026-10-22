@@ -135,45 +135,6 @@ class SatyamKurhe:
 
 ---
 
-## 📂 Featured Projects
-
-### 🔁 AI-Powered Workflow Automation System
-> `Python` · `n8n` · `LLM APIs` · `REST APIs` · `Docker` · `Flask`
-
-- Architected intelligent **event-driven pipelines** integrating AI/LLM APIs for real-time automated task execution
-- Designed scalable **trigger → process → action** architecture connecting multiple external services seamlessly
-- Applied **prompt engineering** to optimise LLM response quality, accuracy & coherence
-- Significantly reduced manual operational effort through robust, self-healing automation workflows
-
----
-
-### 🎓 Student Performance Prediction System
-> `Python` · `Scikit-learn` · `Logistic Regression` · `Random Forest` · `Flask` · `Docker`
-
-- Built complete ML pipeline: **data ingestion → preprocessing → feature engineering → model training → REST API**
-- Achieved **~85% prediction accuracy** validated through k-fold cross-validation
-- Containerised with **Docker** for reproducible, production-ready deployment
-- Exposed predictions via clean Flask REST API for downstream consumption
-
----
-
-### 📊 Sales Data Analysis & Dashboard
-> `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Power BI`
-
-- Analysed **10,000+ sales records** surfacing revenue trends, seasonal patterns & regional performance
-- Built automated **Power BI dashboards** for business intelligence & executive decision-making
-- Delivered forecasting models and data-driven strategic recommendations
-
----
-
-### 💬 NLP Career Guidance Chatbot
-> `Python` · `NLTK` · `Flask` · `REST API` · `OOP`
-
-- Built NLP-powered chatbot with full **text-processing pipeline** — tokenisation, stemming, stop-word removal
-- Designed **modular intent-classification engine** with extensible knowledge base architecture
-- Deployed as REST API for seamless integration with any frontend or third-party service
-
----
 
 ## 📜 Certifications
 
